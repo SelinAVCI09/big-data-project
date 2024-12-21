@@ -1,5 +1,0 @@
-[2024-12-17 13:01:05,928] INFO [GroupCoordinator 0]: Member rdkafka-60319e1e-415c-4a68-a05c-7239edc6f02e in group retail_group has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
-[2024-12-17 13:01:05,935] INFO [GroupCoordinator 0]: Stabilized group retail_group generation 5 (__consumer_offsets-45) with 1 members (kafka.coordinator.group.GroupCoordinator)
-[2024-12-17 13:07:11,862] INFO [GroupCoordinator 0]: Member rdkafka-173a6458-f1a9-4524-9a7a-d81874ee16dd in group retail_group has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
-[2024-12-17 13:07:11,885] INFO [GroupCoordinator 0]: Preparing to rebalance group retail_group in state PreparingRebalance with old generation 5 (__consumer_offsets-45) (reason: removing member rdkafka-173a6458-f1a9-4524-9a7a-d81874ee16dd on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
-[2024-12-17 13:07:11,886] INFO [GroupCoordinator 0]: Group retail_group with generation 6 is now empty (__consumer_offsets-45) (kafka.coordinator.group.GroupCoordinator)
